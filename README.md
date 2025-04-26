@@ -29,13 +29,13 @@ This project aims to predict whether a customer will make a purchase in the next
 ## Key Results & Visualizations
 
 ### 1. Elbow Method for Optimal Clusters
-![Elbow Method](newplot.png)
+![Elbow Method](assets/newplot.png)
 
 ### 2. Customer Segmentation Visualization
-![Customer Segmentation](newplot1.png)
+![Customer Segmentation](assets/newplot1.png)
 
 ### 3. Model Performance Comparison
-![Model Performance](output.png)
+![Model Performance](assets/output.png)
 
 ## How to Use
 1. Clone the repository.
